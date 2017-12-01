@@ -1,0 +1,6 @@
+framework module QSCommonViews {
+  umbrella header "QSCommonViews-umbrella.h"
+
+  export *
+  module * { export * }
+}

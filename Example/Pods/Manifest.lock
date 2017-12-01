@@ -1,0 +1,16 @@
+PODS:
+  - QSCommonViews (0.1.0)
+
+DEPENDENCIES:
+  - QSCommonViews (from `../`)
+
+EXTERNAL SOURCES:
+  QSCommonViews:
+    :path: ../
+
+SPEC CHECKSUMS:
+  QSCommonViews: fff1cac5fa773af59a11686b8edae54dd5608be7
+
+PODFILE CHECKSUM: 9bbc2bf0635ee8119fcc84173a5ee66aaa52cda0
+
+COCOAPODS: 1.3.1

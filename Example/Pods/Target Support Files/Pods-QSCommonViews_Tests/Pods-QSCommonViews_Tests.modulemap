@@ -1,0 +1,6 @@
+framework module Pods_QSCommonViews_Tests {
+  umbrella header "Pods-QSCommonViews_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
