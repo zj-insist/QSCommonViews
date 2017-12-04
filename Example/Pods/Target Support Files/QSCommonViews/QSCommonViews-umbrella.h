@@ -10,6 +10,10 @@
 #endif
 #endif
 
+#import "QSAlertView.h"
+#import "QSAlertViewsMacro.h"
+#import "QSCommonViews.h"
+#import "UIView+Tools.h"
 
 FOUNDATION_EXPORT double QSCommonViewsVersionNumber;
 FOUNDATION_EXPORT const unsigned char QSCommonViewsVersionString[];
